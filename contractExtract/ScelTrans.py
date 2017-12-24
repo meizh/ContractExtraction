@@ -174,7 +174,10 @@ if __name__ == '__main__':
     # 将要转换的词库添加在这里就可以了
     o = [u'C:/Users/Russell/Desktop/Contract/scel/jisuanji.scel',
          u'C:/Users/Russell/Desktop/Contract/scel/daquan.scel',
-         u'C:/Users/Russell/Desktop/Contract/scel/ruanjian.scel']
+         u'C:/Users/Russell/Desktop/Contract/scel/ruanjian.scel',
+         u'C:/Users/Russell/Desktop/Contract/scel/法律词汇大全【官方推荐】.scel',
+         u'C:/Users/Russell/Desktop/Contract/scel/法律文书法规律条.scel',
+         u'C:/Users/Russell/Desktop/Contract/scel/专利审查术语.scel']
 
 
     for f in o:
